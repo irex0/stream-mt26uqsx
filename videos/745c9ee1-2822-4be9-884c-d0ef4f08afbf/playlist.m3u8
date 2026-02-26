@@ -1,0 +1,16 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:7
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:4.223944,
+playlist0.ts
+#EXTINF:4.895922,
+playlist1.ts
+#EXTINF:5.279922,
+playlist2.ts
+#EXTINF:2.047978,
+playlist3.ts
+#EXTINF:6.527900,
+playlist4.ts
+#EXTINF:2.015978,
+playlist5.ts
